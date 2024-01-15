@@ -1,19 +1,21 @@
 # Site settings
-course_name: History of Magic
+course_name: Multivariate Verfahren
 course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
-course_semester: "Fall 1998"
+course_semester: "Sommersemester 2024"
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://11annah-s-teachings.github.io/" # the base hostname & protocol for your site
 
-schoolname: "Hogwarts"
-schoolurl: "https://hogwarts.edu"
-twitter_username: username 
+schoolname: "Department of Statistics, LMU Munich"
+schoolurl: "https://www.en.statistik.uni-muenchen.de/index.html"
+twitter_username:  
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+    Department of Statistics
+    Ludwig-Maximilians-Universität München
+    Ludwigstr. 33
+    80539 München
+    Germany
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
