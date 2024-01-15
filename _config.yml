@@ -6,7 +6,7 @@ course_semester: "Summer semester 2024"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://11annah-s-teachings.github.io/" # the base hostname & protocol for your site
 
-schoolname: "Department of Statistics"
+schoolname: "Department of Statistics, LMU Munich"
 schoolurl: "https://www.en.statistik.uni-muenchen.de/index.html"
 twitter_username:  
 
