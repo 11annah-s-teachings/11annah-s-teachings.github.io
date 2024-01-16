@@ -3,7 +3,7 @@ type: lecture
 date: 2024-04-16T12:00:00+01:00
 title: "Chapter 0: Some probability theory"
 tldr: "The very basics of probability theory needed for this lecture."
-thumbnail: /static_files/presentations/lecturetitles/titlepage_lecture1.png
+thumbnail: /static_files/lecturetitles/titlepage_lecture1.png
 links:     
     - url: /static_files/lectureslides/MV_lecture1.pdf
       name: slides
