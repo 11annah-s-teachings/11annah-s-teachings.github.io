@@ -24,7 +24,7 @@ layout: default
         {% assign all_events = all_events | concat: site.assignments %}
         {% assign all_events = all_events | concat: all_assignment_dues %}
         
-        {% assign all_events_filtered = all_events | where_exp: "item", "item.type != 'assignment' or item.due_event == nil" %}
+        {% assign all_events_filtered = all_events | where_exp: "item", "item.type != 'due'" %}
         {% assign all_events_sorted = all_events_filtered | sort: 'date' %}
 
         {% for event in all_events_sorted %}
