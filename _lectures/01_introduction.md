@@ -8,7 +8,7 @@ links:
     - url: /static_files/lectureslides/MV_lecture1.pdf
       name: slides
     - url: /static_files/lecturecodes/texcode1.zip
-      name: codes
+      name: TexCode
 
 ---
 **Suggested Readings:**
