@@ -1,17 +1,16 @@
 ---
 type: lecture
-date: 2018-09-16T8:00:00+4:30
-title: Sample Lecture
-tldr: "Short text to discribe what this lecture is about."
-thumbnail: /static_files/presentations/lec.jpg
-links: 
-    - url: /static_files/presentations/lec.zip
-      name: notes
-    - url: /static_files/presentations/code.zip
-      name: codes
-    - url: https://google.com
+date: 2024-04-16T12:00:00+01:00
+title: Chapter 0: Some probability theory
+tldr: "The very basics of probability theory needed for this lecture."
+thumbnail: /static_files/presentations/lecturetitles/titlepage_lecture1.png
+links:     
+    - url: /static_files/lectureslides/MV_lecture1.pdf
       name: slides
+    - url: /static_files/lecturecodes/texcode1.zip
+      name: codes
+
 ---
 **Suggested Readings:**
-- [Readings 1](http://example.com)
-- [Readings 2](http://example.com)
+- [Nice, relatively simple explanation of the basics](https://www.probabilitycourse.com)
+- [Probability theory : a comprehensive course, by Achim Klenke](https://login.emedien.ub.uni-muenchen.de/login?url=https://doi.org/10.1007/978-3-030-56402-5)
