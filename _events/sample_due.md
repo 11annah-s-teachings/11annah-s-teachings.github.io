@@ -1,6 +1,6 @@
 ---
 type: due
-date: 2019-12-28T23:59:59+3:30
-description: 'Custom Due/Deadline'
+date: 2024-08-31T:24:00+01:00
+description: 'Deadline for Project submission'
 hide_from_announcments: true
 ---
