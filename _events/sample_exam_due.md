@@ -1,6 +1,6 @@
 ---
 type: exam
-date: 2018-12-02T8:0:0+3:30
+date: 2024-07-18T12:00:00+01:00
 description: 'Midterm'
 hide_from_announcments: true
 ---
