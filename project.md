@@ -12,17 +12,17 @@ For the theoretical route, you will be asked to write a report of 5-10 pages abo
 
 For the topic, you may choose any statistical method that interests you, provided you get my approval first.
 
-### Details and ressources
-Coming soon...
+* ### **Details and ressources**
+    Coming soon...
 
 ## **Applied**: Implementing a statistical algorithm in a minimalistic R-package
 For the applied route, you will be asked to write your own little R-package. In it, you should implement an algorithm that is within the broader scope of the course. 
 
 As with the theoretical route, the exact choice of algorithm is up to you, provided you get my approval first.
 
-### Details and ressources
-Coming soon...
+* ### **Details and ressources**
+    Coming soon...
 
 
-# General Formalities
+# **General Formalities**
 Coming soon...
