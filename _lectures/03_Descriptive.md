@@ -9,6 +9,7 @@ links:
       name: slides
     - url: /static_files/lecturecodes/texcode2.zip
       name: TexCode
-    - url: /static_files/html/ggplotEx.Rmd
+    - url: /static_files/html/ggplotEx.html
       name: ggplot examples from the lecture
+
 ---
