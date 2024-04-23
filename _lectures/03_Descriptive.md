@@ -11,7 +11,7 @@ links:
       name: TexCode
     - url: /static_files/html/ggplotEX.html
       name: ggplot examples from the lecture
-    - url: 
-      name: ShinyApp
+    - url: /static_files/shiny/projectoR-edited.zip
+      name: ShinyApp (projectoR)
 
 ---
