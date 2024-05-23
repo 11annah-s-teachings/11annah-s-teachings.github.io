@@ -2,7 +2,7 @@
 type: lecture
 date: 2024-04-30T12:00:00+01:00
 title: "Chapter 4: Multivariate Distributions"
-tldr: "Recap of univariate Random Variables; then definition of random vectors and examples of commen distributions."
+tldr: "Recap of univariate Random Variables; then definition of random vectors and examples of common distributions."
 thumbnail: /static_files/lecturetitles/titlepage_lecture4.png
 links:     
     - url: /static_files/lectureslides/MV_lecture4.pdf
