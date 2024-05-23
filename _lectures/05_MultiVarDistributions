@@ -1,13 +1,13 @@
 ---
 type: lecture
 date: 2024-04-30T12:00:00+01:00
-title: "Chapter 4: Multivariate Distributions"
-tldr: "Recap of univariate Random Variables; then definition of random vectors and examples of common distributions."
-thumbnail: /static_files/lecturetitles/titlepage_lecture4.png
+title: "Chapter 5: Distance and Similarity measures"
+tldr: "Introduction to Metric spaces; followed by an overview of common Distance and Similarity measures."
+thumbnail: /static_files/lecturetitles/titlepage_lecture5.png
 links:     
-    - url: /static_files/lectureslides/MV_lecture4.pdf
+    - url: /static_files/lectureslides/MV_lecture5.pdf
       name: slides
-    - url: /static_files/lecturecodes/texcode4.zip
+    - url: /static_files/lecturecodes/texcode5.zip
       name: TexCode
 
 ---
