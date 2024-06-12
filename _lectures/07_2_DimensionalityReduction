@@ -1,0 +1,13 @@
+---
+type: lecture
+date: 2024-06-13T12:00:00+01:00
+title: "Chapter 7.2: Dimensionality Reduction: a Motivation"
+tldr: "Motivation for dimensionality reduction methods"
+thumbnail: /static_files/lecturetitles/titlepage_lecture6.png
+links:     
+    - url: /static_files/lectureslides/MV_lecture8.pdf
+      name: slides
+    - url: /static_files/lecturecodes/texcode8.zip
+      name: TexCode
+
+---
