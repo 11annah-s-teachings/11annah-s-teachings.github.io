@@ -1,6 +1,7 @@
+---
 type: lecture
 date: 2024-06-25T12:00:00+01:00
-title: "7.3: Principal Component Analysis (PCA)"
+title: "Chapter 7.3: Principal Component Analysis (PCA)"
 tldr: "An introduction to PCA"
 thumbnail: /static_files/lecturetitles/titlepage_lecture9.png
 links:     
