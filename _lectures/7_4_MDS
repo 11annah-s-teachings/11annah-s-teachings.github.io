@@ -1,0 +1,13 @@
+---
+type: lecture
+date: 2024-07-04T12:00:00+01:00
+title: "Chapter 7.4: Multidimensional scaling (MDS)"
+tldr: "An introduction to MDS"
+thumbnail: /static_files/lecturetitles/titlepage_lecture10.png
+links:     
+    - url: /static_files/lectureslides/MV_lecture10.pdf
+      name: slides
+    - url: /static_files/lecturecodes/texcode10.zip
+      name: TexCode
+
+---
