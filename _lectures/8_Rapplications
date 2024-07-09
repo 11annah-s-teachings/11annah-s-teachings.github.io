@@ -1,0 +1,11 @@
+---
+type: lecture
+date: 2024-07-09T12:00:00+01:00
+title: "Chapter 8: Applications and Case Studies in R"
+tldr: "Anecdotal Rapplications."
+thumbnail: /static_files/lecturetitles/RapplicationsTitle.png
+links:     
+    - url: /static_files/Applications_in_R/lecture.html
+      name: HTML
+
+---
