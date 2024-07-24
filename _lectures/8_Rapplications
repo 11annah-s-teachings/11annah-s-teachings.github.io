@@ -7,6 +7,8 @@ thumbnail: /static_files/lecturetitles/RapplicationsTitle.png
 links:     
     - url: /static_files/Applications_in_R/lecture.html
       name: HTML
+      - url: /static_files/Applications_in_R/lecture.pdf
+      name: printed pdf
     - url: /static_files/Applications_in_R/data.zip
       name: data
 ---
