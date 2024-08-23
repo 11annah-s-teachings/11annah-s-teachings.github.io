@@ -23,6 +23,7 @@ For the topic, you may choose any statistical method that interests you, provide
         - (d) *“Here’s how I can interpret my results given the data and assumptions.”* 
     3. All sources are cited, including lecture notes and Wikipedia articles, which are perfectly valid references for this project.
 
+
     You may simply submit this project by sending me the pdf
 
 ## **Applied**: Implementing a statistical algorithm in a minimalistic R-package
